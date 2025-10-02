@@ -7,9 +7,7 @@
 		"build": "next build",
 		"lint": "next lint",
 		"typecheck": "tsc --noEmit",
-		"validate": "npm run typecheck && npm run lint",
-		"deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-		"cf-typegen": "wrangler types --env-interface CloudflareEnv ./cloudflare-env.d.ts"
+		"validate": "npm run typecheck && npm run lint"
 	},
 	"dependencies": {
 		"@hookform/resolvers": "^5.2.2",
