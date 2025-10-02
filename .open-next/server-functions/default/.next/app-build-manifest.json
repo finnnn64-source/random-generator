@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/app/_not-found/page-2efc661ebdbdebb0.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/css/eeadc7077bdcd6ad.css",
+      "static/chunks/app/layout-02c86d9fd843f131.js"
+    ],
+    "/fortune/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/497-4382d0b1dcb97024.js",
+      "static/chunks/app/fortune/page-77ec68b0f27a8c66.js"
+    ],
+    "/lunch/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/497-4382d0b1dcb97024.js",
+      "static/chunks/app/lunch/page-893ea95dcc4b8642.js"
+    ],
+    "/nickname/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/497-4382d0b1dcb97024.js",
+      "static/chunks/app/nickname/page-0307d920a33e09e5.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/497-4382d0b1dcb97024.js",
+      "static/chunks/app/page-ac96b2d3fe9986c3.js"
+    ],
+    "/travel/page": [
+      "static/chunks/webpack-8c94b35adf29e9b1.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-7ded156b6f35af70.js",
+      "static/chunks/497-4382d0b1dcb97024.js",
+      "static/chunks/app/travel/page-669078ec02e9236c.js"
+    ]
+  }
+}
